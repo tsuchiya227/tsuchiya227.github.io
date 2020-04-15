@@ -11,8 +11,7 @@
     </header>
     <main>
     <?php
-    $name="つちや";
-    echo <h1>$name</h1>;
+    echo "<h1>つちや</h1>";
      ?>
     </main>
     <footer>
